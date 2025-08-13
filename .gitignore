@@ -1,0 +1,20 @@
+# Ignore non-purring things
+*.log
+.env
+/dist/
+__pycache__/
+node_modules/
+.env
+.env
+.env
+
+# Seguridad
+.secrets/
+.env
+*.token
+
+
+# GitHub
+*.token
+*.secret
+
